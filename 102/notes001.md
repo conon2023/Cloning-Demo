@@ -14,7 +14,36 @@ This is a fundamental belief that I can do more and be better than I am through 
 [Take a Short Break](https://www.bing.com/images/search?view=detailV2&ccid=vupylNDk&id=C5FEEDA2D19CE3666245AFFC43A4DDB135A8873D&thid=OIP.vupylNDkkgtcj4-zykCWhAHaDt&mediaurl=https%3a%2f%2fhealthyvoyager.com%2fwp-content%2fuploads%2f2017%2f09%2frelax-05.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.beea7294d0e4920b5c8f8fb3ca409684%3frik%3dPYeoNbHdpEP8rw%26pid%3dImgRaw%26r%3d0&exph=1024&expw=2048&q=free+stock+image+showing+people+relaxing&simid=607997915990995328&FORM=IRPRST&ck=20AE48DBA3A6DE6103DC1A576FC8771D&selectedIndex=0&idpp=overlayview&ajaxhist=0&ajaxserp=0)
 
 4. Consult those knowledgeable in the field when all else fails.   
-![Consult with Others]<img src="tykeu.jpg" alt="Consult Others" width="300" height="200">
+![Consult Others]<img src="tykeu.jpg" alt="Consult Others">
 
 **Chidi Ononye.   
 Tech Education Student
+
+
+
+# Learning Markdown
+
+## What is Markdown?
+Markdown is a lightweight markup language that is used for formatting and structuring plain text. Markdown was created by John Gruber in 2004. 
+
+### Why do we use Markdown? 
+1.	It is easy to learn and use. The syntax is designed to be straightforward and readable. 
+2.	It is a human-readable and platform-independent language. Files can be easily shared and viewed across different devices and operating systems. 
+3.	It markups to HTML conversion. Allows for writing content using a simplified syntax and then generating HTML. 
+4.	It is versatile and widely supported. Markdown is supported by a vast range of applications, platforms, and content management systems (CMS).
+5.	Consistency and readability: It provides a standardized way of structuring and organizing content, making it easier to read and understand. 
+6.	Quick and efficient: It makes the writing process more efficient. 
+7.	Version control compatibility: Works well with version control systems like Git. Changes can be easily tracked, viewed, and merged facilitating 
+
+### What Symbol will Create a Heading in Markdown?
+The #(hash) symbol will create a heading in Markdown. The number of hash symbols will determine the level of the heading. 
+1.	We need one (1) hash (#) symbol to create the largest heading. 
+2.	The smallest heading in Markdown will use six (6) hashtag (######) symbols that correspond to level 6. 
+3.	When making texts bold or italicized, it is best practice to use the asterisks (*) symbol. 
+4.	We create a link in markdown with the following syntax: [Click to visit page](url of page). The [] will contain the actual text the user sees. The () will contain the url of the page to visit. 
+
+### In Markdown we can create an unordered (bulleted) list using the following symbols:
+1.	Asterisk (‘*’)
+2.	Hypen (‘-‘)
+3.	Plus sign (‘+’)
+The syntax is any of the symbols followed by space and then what you want to list. 
