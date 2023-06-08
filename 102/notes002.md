@@ -1,4 +1,4 @@
-# READ 02 - THE CODER'S COMPUTER EXAMPLE MODULE # 
+# READ 02 - THE CODER'S COMPUTER June 06, 2023 # 
 
 ## The command Line - Your Window into the Computer ##
 
