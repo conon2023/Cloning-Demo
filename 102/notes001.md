@@ -1,4 +1,4 @@
-# GROWTH MINDSET June 06, 2023.
+# LAB - 01B GROWTH MINDSET June 06, 2023.
 
 _***What is a Growth Mindset?
 This is a fundamental belief that I can do more and be better than I am through hardwork and consistent effort. This belief butresses the notion applied effort towards a goal will yield better dividend than one's inate talents and ablities.   
@@ -21,7 +21,7 @@ Tech Education Student
 
 
 
-# Learning Markdown
+# READ 01 - LEARNING MARKDOWN June 06, 2023.
 
 ## What is Markdown?
 Markdown is a lightweight markup language that is used for formatting and structuring plain text. Markdown was created by John Gruber in 2004. 

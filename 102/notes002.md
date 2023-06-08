@@ -1,4 +1,6 @@
-# 1. The Four Important features of any Text Editor are:
+# READ 02 - THE CODER'S COMPUTER June 06, 2023
+
+## 1. The Four Important features of any Text Editor are:
 
 **Code completion** – This allows you to start typing while displaying possible suggestions based on what you originally typed. It saves one from typing errors and time. It also includes the closing of tags, brackets, and/or quotation marks when you open them, thereby ensuring you are always writing your code. 
 
@@ -8,7 +10,7 @@
 
 **A healthy Choice of Extensions Available to Choose From.** This is because as we become more familiar with coding and our needs grow, we will want a text editor that can grow with us. 
 
-# 2. Command Functions:
+## 2. Command Functions:
 
 **pwd** - (Print working directory) command tells the user where he is at each point in time. That is, it lets the user know what the current or present working directory is.
 
@@ -22,7 +24,7 @@
 
  
 
-# 3  What happens when we execute the following commands:#
+## 3  What happens when we execute the following commands:#
 
 When we execute **cd projects** command, the command line looks for a directory named projects in the current directory. If found, the command line changes the current directory to “projects.”
 
