@@ -1,111 +1,35 @@
-# READ 02 - THE CODER'S COMPUTER June 06, 2023 # 
+# 1. The Four Important features of any Text Editor are: #
 
-## The command Line - Your Window into the Computer ##
+## Code completion ## – This allows you to start typing while displaying possible suggestions based on what you originally typed. It saves one from typing errors and time. It also includes the closing of tags, brackets, and/or quotation marks when you open them, thereby ensuring you are always writing your code. 
 
-**_What is a command line?_**
--*A command line, or terminal, is a text based interface to the system. Inputs are text via the keyboard and outputs are equally by texts and on screen.
+## Syntax highlighting ## – This is a feature that makes text reading and error identification easier. It colors the texts and, hence, is easier to notice.
 
-The command line typically presents you with a prompt. Next is the command and then the command line. There must be a space between the first command and the first command line argument. 
+## A nice variety of themes (to reduce eye strain and fatigue) ## – This is a feature that allows you to change the color of the background of your text editor and the series of colors in your text. 
 
-### OPENNING A TERMINAL 
-#### On a mac:
-Go to applications and then utilities
+## A healthy Choice of Extensions Available to Choose From. ## This is because as we become more familiar with coding and our needs grow, we will want a text editor that can grow with us. 
 
-### On a Linux:
-Go to applications. Then go to system or applications and finally to utilities. Someimtes you may be able to right click on the desktop and find the option 'open terminal'. 
+# 2. Command Functions: #
 
-### On Windows:
-An SSH client will be required if you intend to remotely log into another machine. **Putty**, which is free, is a good one.
+## pwd - (Print working directory) ## command tells the user where he is at each point in time. That is, it lets the user know what the current or present working directory is.
 
-### THE SHELL, BASH 
-The shell is within the terminal and it that part of the operating system which showcases the terminal's **behavior and looks** after running or executing. The most common shell is called **bash**, which stands for **Bourne again shell.**
-The command called **echo** will display a system variable stating the shell you are using. 
+## ls - (list) ## command will list the contents of the current location. That is, it will simply output a plain listing of the current location. 
 
-### SHORTCUTS
-Once you have entered a command before, you can use the up and down arrow keys to go through all of them. To edit previously entered commands, use the left and right arrow keys.
+## cd - (change directory) ## command is used to change the current working directory. 
 
-## Basic Navigation - Exploring the System!
-This is about moving around. Most tasks will generally reference or be able to get to the correct system location. Some of these tasks include: 
+## mkdir - (make directory)## command is used to make or create a new directory (also known as folders).
 
-**PWD** - which stands for **Print Working Directory**. PWD command will always tell the user where he is i.e. It lets the user know what the current or present working directory is. 
+## touch - the touch ## command is used to create, change and modify the timestamps of a file.
 
-**ls** - the listing command. 
-This **list** (ls) command allows the user know the content of our current location. 
-Running a list with no arguement as shown above will simply output a plain listing of the current location. 
-_Here are a few examples:_
+ 
 
-**ls**
-The command above lists the contents of our current directory. 
+# 3  What happens when we execute the following commands:#
 
-_**ls -l**_
-This command has a single line option (-l). It a short listing with various attributes like normal(-) or directory (d); permission for file or directory, number of blocks, owner of the file, group file or directory belongs to, file size, file modification time and actual name of the file or directory. 
+When we execute **cd projects** command, the command line looks for a directory named projects in the current directory. If found, the command line changes the current directory to “projects.”
 
-_**ls /etc**_
-The command above will not list current directory but will, instead, list the directory's contents. 
+When we execute the **mkdir new-project** command, the argument new-project is passed to the mkdir command, specifying the name of the directory you want to create. The mkdir command creates a new directory with the name “new-project” in the current working directory.
 
-_**ls -l/etc**_
-ls will output a long listing of the directory /etc.
+When we execute the **touch new-project/newfile.md** command, a new file named “newfile.md” is created inside the new-project directory.
 
-### Paths
-This is a means to access a particular file or directory (location) in the system. 
+When we execute the **cd ..** command, the current directory will be changed to the parent directory. While the cd command is used to change the current directory, the .. is a speciation directory notation that represents the parent directory of the current directory.
 
-#### Absolute and Relative Paths ####
-In the **linux system,** the filing system is **hierarchical** The **root directory** is at the very top and denoted by a single slash ( / ). Then there are subdirectories and files may reside in any of these directories. 
-
-**Absolute paths** specify a location (file or directory) in relation to the root directory. It usually begins with a forward slash ( / ). 
-
-**Relative paths** specify a location (file or directory) in relation to where we currently are in the system and will not begin with a slash.
-
-## More on Paths
-~ (tilde) - This is a shortcut for your home directory. eg, if your home directory is /home/ryan then you could refer to the directory Documents with the path /home/ryan/Documents or ~/Documents
-
-. (dot) - This is a reference to your current directory. eg in the example above we referred to Documents in a relative path. It could also be written as ./Documents (Normally this extra bit is not required but in later sections we will see where it comes in handy).
-
-.. (dotdot)- This is a reference to the parent directory. You can use this several times in a path to keep going up the hierarchy. eg if you were in the path /home/ryan you could run the command ls ../../ and this would do a listing of the root directory.
-
-Here are some examples:
-user@bash: pwd
-/home/ryan
-user@bash:ls ~/Documents
-user@bash: file1.txt file2.txt file3.txt
-
-user@bash: ls ./Documents
-file1.txt file2.txt file3.txt
-
-user@bash: ls /home/ryan/Documents
-file1.txt file2.txt file3.txt
-
-user@bash:
-user@bash: ls ../../
-bin boot dev etc home lib var
-
-user@bash:
-user@bash: ls /
-bin boot dev etc home lib var
-
-
-
-## Moving around a bit ##
-We use the change director (cd) command to move around the path. 
-## cd[location]
-The cd command without any arguement will always take you back to the home directory. 
-
-## Tab Completion##
-Tab completion is an auto complete feature that helps us complete the paths we are already typing.
-
-## Everything is a File ##
-In the Linux system, it is important to understand that everything is basically a file. 
-Texts, directories are all files. Keyboards are files we read from while monitors are files we read to. 
-
-## Linux - An Extensionless System ##
-Sytems like windows use file extensions which is a set of 2 - 4 characters after a full stop at the end of the file. For example we have file.exe, file.txt, file.png/gif/jpg, to determine denote what type of file that is. In Linux, however, the system actually ignores the extension. Rather, it looks inside the file to determine what type of file it is. Take a a file **chidi.png** for instance, even if I rename it **chidi.txt** or just **chidi**, Linux would still happily treat the file as an image file. This can make it a bit dificult to know what type of file it is in Linux. Forunately for users, there is a command called **file** which we can use to find what file it is. And that is: **file [path]
-
-## Linux is Case Sensitive
-Unline windows, Linux sees every file, directory and command as distinct. In essence, it is case sensitive.  
-
-## Spaces in Names
-A space on the command line is how we seperate items. It identies what is the program name as well as each command line argument. Linux does not allow for spaces in directory and file names. This is beacause it will see the two as distinct. To deal with this, we can either use **quotes** or the **escape (\)** character. So, it will be **\cd "James Monday"** or **\cd James\ Monday**
-
-## Hidden Files and Directories
-In Linux, we are able to identify a hidden file or directory when its name starts with a **. (full stop)**. To make a file or directory hidden, simple create  or rename it with a .(fullstop) starting it.   
-The command **ls** that we have seen previously will not list hidden files and directories. But when we inclide the line option **-a** it will show hidden files and directories. 
+When we execute the **ls projects/new-project** command, the argument projects/new-project is passed to the ls command to list the files and directories.
