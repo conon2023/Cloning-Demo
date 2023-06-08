@@ -1,24 +1,24 @@
 # 1. The Four Important features of any Text Editor are:
 
-## Code completion – This allows you to start typing while displaying possible suggestions based on what you originally typed. It saves one from typing errors and time. It also includes the closing of tags, brackets, and/or quotation marks when you open them, thereby ensuring you are always writing your code. 
+**Code completion** – This allows you to start typing while displaying possible suggestions based on what you originally typed. It saves one from typing errors and time. It also includes the closing of tags, brackets, and/or quotation marks when you open them, thereby ensuring you are always writing your code. 
 
-## Syntax highlighting – This is a feature that makes text reading and error identification easier. It colors the texts and, hence, is easier to notice.
+**Syntax highlighting** – This is a feature that makes text reading and error identification easier. It colors the texts and, hence, is easier to notice.
 
-## A nice variety of themes (to reduce eye strain and fatigue) – This is a feature that allows you to change the color of the background of your text editor and the series of colors in your text. 
+**A nice variety of themes (to reduce eye strain and fatigue)** – This is a feature that allows you to change the color of the background of your text editor and the series of colors in your text. 
 
-## A healthy Choice of Extensions Available to Choose From. This is because as we become more familiar with coding and our needs grow, we will want a text editor that can grow with us. 
+**A healthy Choice of Extensions Available to Choose From.** This is because as we become more familiar with coding and our needs grow, we will want a text editor that can grow with us. 
 
 # 2. Command Functions:
 
-## pwd - (Print working directory) command tells the user where he is at each point in time. That is, it lets the user know what the current or present working directory is.
+**pwd** - (Print working directory) command tells the user where he is at each point in time. That is, it lets the user know what the current or present working directory is.
 
-## ls - (list) command will list the contents of the current location. That is, it will simply output a plain listing of the current location. 
+**ls** - (list) command will list the contents of the current location. That is, it will simply output a plain listing of the current location. 
 
-## cd - (change directory) command is used to change the current working directory. 
+**cd** - (change directory) command is used to change the current working directory. 
 
-## mkdir - (make directory) command is used to make or create a new directory (also known as folders).
+**mkdir** - (make directory) command is used to make or create a new directory (also known as folders).
 
-## touch - the touch ## command is used to create, change and modify the timestamps of a file.
+**touch** - the touch ## command is used to create, change and modify the timestamps of a file.
 
  
 
