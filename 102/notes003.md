@@ -3,7 +3,7 @@
 **What is Version Control?**
 Version control is a system that allows multiple contributors work on the same file simultaneously, manage conflicts, and provide a reliable history of changes.  
 
-Version control has evolved over time - a local version control, a centralized version control, and distributed version control. 
+Version control has evolved over time - a local version control, a centralized version control, and distributed version control. Please help. 
 
 *a local version control* - this was about a single data on one's hard disk that stores changes to files. 
 
