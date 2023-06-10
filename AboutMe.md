@@ -47,7 +47,7 @@ In addition, I equally got into photography, video editing and digital marketing
 A great love of mine is also travelling. This is something I totally enjoy. However, I enjoy travelling best when it is with my family (wife and children).
 
 
-Well, there you have a bit of me. I hope you truly agree with my incredibility. Time and space will not all me write about everything I wish to write. But whatever you have read is a good start. My prayer is for everyone of us to truly find what truly resonates with our uniqieness. 
+Well, there you have a bit of me. I hope you truly agree with my incredibility. Time and space will not all me write about everything I wish to write. But whatever you have read is a good start. My prayer is for everyone of us to find what truly resonates with his or her uniqieness. 
 
 Cheers and have a great week ahead!
 
