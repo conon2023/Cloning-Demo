@@ -1,12 +1,12 @@
 # MY READING NOTES - INTRO TO SOFTWARE DEVELOPMENT
 My notes during the Tech Educators Coding Booting 
 
-# Introduction
+## Introduction
 This page is about a *truly incredible person*: **Me!**   
 [Click Here to learn more](/AboutMe.md)
 
-# Table of Contents
-### Code 102 Reading Notes
+### Table of Contents
+#### Code 102 Reading Notes
 - Class 01: [Markdown and Growth Mindset](/102/notes001.md)
 - Class 02: [The Coder's Computer](/102/notes002.md)
 - Class 03: [Revisions and the Cloud](/102/notes003.md)
@@ -14,7 +14,7 @@ This page is about a *truly incredible person*: **Me!**
 - Class 05: [Web Pages with CSS](/102/notes005.md)
 - Class 06: [Javascript](/102/notes006.md)
 
-### Code 201 Reading Notes
+#### Code 201 Reading Notes
 - Class 01: []()
 - Class 02: []()
 - Class 03: []()
