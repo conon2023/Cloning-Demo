@@ -1,8 +1,8 @@
 # Welcome to my Page!
 
->“The illiterate of the twenty-first century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn.”- Alvin Toffler
+>**“The illiterate of the twenty-first century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn.”- Alvin Toffler**
 
-Getting to know me is like trying to figure out how deep the inner core of the Earth is. And yes, I mean that literally. At this stage of my life, I have become so many thing through hard work and perseverance that I know well-enough that mastery and excellence can be achieved in any field or endeavor through the right mind-set and hardwork. With the right mind-set and ample time dedication for practice, *the sky will no longer be ***the*** limit but ***a*** starting point.* 
+Getting to know me is like trying to figure out how deep the inner core of the Earth is. And yes, I mean that literally. At this stage of my life, I have become so many thing through hard work and perseverance that I know mastery and excellence can be achieved in any field through the right mind-set and hardwork. With the right mind-set and ample time dedication for practice, *the sky will no longer be ***the*** limit but ***a*** starting point.* 
 
 ## Where do I start from?
 
