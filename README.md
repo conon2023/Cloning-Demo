@@ -4,9 +4,9 @@ This page is built by a *truly incredible person*: **Me!**
 [Click Here to learn more](AboutMe.md)
 
 ***This is your flight captain, Chidi Ononye, saying welcome aboard flight Norwich-code-102d5: Intro to Software Development***. What a lovely weather it is today! 
-To make this a very remarkable learning experience, we have On board, **Rich, Chris, Samantha and James.** It such a lovely weather today. 
+To make this a very remarkable learning experience, we have on board, **Rich, Chris, Sam and James.** The weather is such a lovely one today. 
 
-Please let your seat belts remain fastened as we navigate the 10 weeks journey. We might experience **a bit of turbulence** at different times, including this ascent. But not to worry, we will be at our **cruising altitude** in no distant time.  
+Please fastened your seat belts as we navigate this 10 weeks journey. We might experience **a bit of turbulence** at different times, including this ascent. But not to worry, we will be at our **cruising altitude** in no distant time.  
 
 Meanwhile, take out some time to explore some of our in-fligth entertainments. They have been organised to allow you follow us as we progress or you can jump right into any area that particularly interests you. Our in-flight entertainment contents will entertain, educate, inform you on cutting edge discoveries in the field of software development. 
 
