@@ -1,4 +1,4 @@
----# Welcome to my Page!
+# Welcome to my Page!
 
 Getting to know me is like trying to figure out how deep the inner core of the Earth is. And yes, I mean that literally. At this time of my life, I have become so many thing through hard work and perseverance. I am a living proof that mastery in any create requires the right mind-sent and enough time committed to practice! Practice and more practice!
 
