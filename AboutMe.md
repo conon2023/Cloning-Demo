@@ -7,9 +7,21 @@ Getting to know me is like trying to figure out how deep the inner core of the E
 I love to read and have read and read and still reading. I read across a wide range of field - technology, education, farming, entrepreneuship and personal development. I started reading at quite a young age and can remember going to the library in my community at 6 years and to the children's corner then to read. My love for reading has helped me keep up with the other areas I have had to work on and develop myself. 
 
 ## Educational and Professional Background:
-I have a degree in **Electronic Engineering** and a **Master's in Educational Technology**. I have a **certificate in entreprenuership** and currently working on having extertise in **Porgrammong and Data Analytics**. A number of what I learn and become, I do some to help others learn and become same. **This is beauty of my training and role as a teacher.** I dymistified Math and Science for a good number of children. My love for learning equally led me to develop my creative writing and speaking skills. I thought myself phonetics so I can help as many as I could read, spell and speak. I eventually used the same skills to help thousands of children in Nigeria. 
+I have a degree in **Electronic Engineering** and a **Master's in Educational Technology**. I have a **certificate in entreprenuership** and currently working on having extertise in **Porgrammong and Data Analytics**. A number of what I learn and become, I do some to help others learn and become same. **This is beauty of my training and role as a teacher.** I dymistified Math and Science for a good number of students back in Nigeria and I will love to do same again anywhere I find myself. 
 
-The goal of any learning for me, first and foremost, is to make myself better. Next, is to help as many people as I can make contact with also get better. I am highly optimistic and positive that learning to be a software developer will not be any different. 
+*My love for learning equally led me to develop in the following areas:*
+
+- Creative writing
+- Speaking Skills
+- Phonetics so I could help a good number of people read and spell. I was able to help children in their hundreds in Nigeria. 
+ 
+
+In order of preference, my learning goals are:
+
+1. For myself - I believe in the continuos and never ending improvement ***CANEI*** philosophy. When I make myself better, I am much more able to help others get better too. 
+2. For others - My life has been a case of passing on as much as I am able to do to others. I love the excitement and that '*AHA!* feeling that goes with one knowing that a previously perceived challenged has been eliminated. 
+3. To help as many people as I can make contact with also get better. I am highly optimistic and positive that learning to be a software developer will not be any different. 
+4. To earn to live a comfortable life - Coincidentally, when we improve ourselves, our financial outcomes equally improves and we are better able to live the lives we have always desired. 
 
 ## My Hobbies
 
