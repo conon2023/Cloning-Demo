@@ -3,7 +3,7 @@ My notes during the Tech Educators Coding Booting
 
 # Introduction
 This page is about a *truly incredible person*: **Me!**   
-[Click Here to learn more](/About%20Me.md)
+[Click Here to learn more](/AboutMe.md)
 
 # Table of Contents
 ### Code 102 Reading Notes
